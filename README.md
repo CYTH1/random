@@ -7,7 +7,7 @@ tools for bruteforcing facebook accounts in nigeria
 • Fixed the bugs by adding an automatic password .<br>
 • Added 1000 Fresh User Agents
 
-### Tampilan Hasil 
+### Screenshot of cracked idz 
 ![template](https://github.com/CYTH1/random/blob/main/_mark.jpg)
 
 ### Install tools
